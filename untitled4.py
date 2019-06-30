@@ -121,9 +121,9 @@ with open ('model_sc', 'rb') as f2:
 with open ('classifier.pkl', 'wb') as f3:
     pickle.dump(classifier,f3)
 with open ('classifier.pkl', 'rb') as f3:
-    clssifier = pickle.load(f3)
+    ohe = pickle.load(f3)
 
-classifier.predict(list1)
+ohe.predict(list1)
 
 """
 from xgboost import XGBClassifier
