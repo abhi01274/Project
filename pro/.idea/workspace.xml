@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffbae1bb-7940-4ca3-b896-0e629d8164ef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/fonts/icomoon/Read Me.txt" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/fonts/icomoon/Read Me.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/fonts/icomoon/demo-files/demo.css" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/fonts/icomoon/demo-files/demo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/fonts/icomoon/demo-files/demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/fonts/icomoon/demo-files/demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/fonts/icomoon/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/fonts/icomoon/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/fonts/icomoon/fonts/icomoon.eot" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/fonts/icomoon/fonts/icomoon.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/fonts/icomoon/fonts/icomoon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/fonts/icomoon/fonts/icomoon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/fonts/icomoon/fonts/icomoon.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/fonts/icomoon/fonts/icomoon.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/fonts/icomoon/fonts/icomoon.woff" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/fonts/icomoon/fonts/icomoon.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/fonts/icomoon/selection.json" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/fonts/icomoon/selection.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/fonts/icomoon/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/fonts/icomoon/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/images/do-ui-kit-1-6-overview.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/images/do_ui_kit_download_cta_floating_devices-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/images/do_ui_kit_hero_floating_devices-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/js/slick.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/js/slick.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/prepros-6.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_alert.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_alert.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_badge.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_badge.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_breadcrumb.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_breadcrumb.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_button-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_button-group.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_buttons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_card.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_carousel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_carousel.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_close.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_close.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_code.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_code.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_custom-forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_custom-forms.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_dropdown.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_dropdown.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_forms.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_functions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_images.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_images.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_input-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_input-group.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_jumbotron.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_jumbotron.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_list-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_list-group.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_media.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_media.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_modal.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_modal.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_nav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_navbar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_pagination.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_popover.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_popover.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_print.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_print.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_progress.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_progress.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_reboot.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_reboot.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_root.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_root.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_spinners.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_spinners.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_tables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_tables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_toasts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_toasts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_tooltip.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_tooltip.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_transitions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_transitions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_type.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_type.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_utilities.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/bootstrap-grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/bootstrap-grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/bootstrap-reboot.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/bootstrap-reboot.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/bootstrap.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/bootstrap.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_alert.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_alert.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_background-variant.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_background-variant.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_badge.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_badge.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_border-radius.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_border-radius.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_box-shadow.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_box-shadow.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_breakpoints.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_breakpoints.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_buttons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_caret.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_caret.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_clearfix.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_clearfix.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_deprecate.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_deprecate.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_float.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_float.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_forms.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_gradients.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_gradients.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_grid-framework.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_grid-framework.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_hover.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_hover.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_image.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_image.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_list-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_list-group.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_lists.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_lists.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_nav-divider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_nav-divider.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_pagination.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_reset-text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_reset-text.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_resize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_resize.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_screen-reader.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_screen-reader.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_size.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_size.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_table-row.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_table-row.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_text-emphasis.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_text-emphasis.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_text-hide.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_text-hide.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_text-truncate.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_text-truncate.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_transition.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_transition.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_visibility.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/mixins/_visibility.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_align.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_align.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_background.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_background.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_borders.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_borders.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_clearfix.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_clearfix.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_display.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_display.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_embed.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_embed.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_flex.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_flex.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_float.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_float.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_overflow.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_overflow.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_position.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_position.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_screenreaders.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_screenreaders.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_shadows.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_shadows.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_sizing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_sizing.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_spacing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_spacing.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_stretched-link.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_stretched-link.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_text.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_visibility.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/utilities/_visibility.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/vendor/_rfs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/free-template.co--imagine/scss/bootstrap/vendor/_rfs.scss" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="55" lean-forward="true" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+              <folding>
+                <element signature="e#0#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="124" column="23" selection-start-line="124" selection-start-column="23" selection-end-line="124" selection-end-column="23" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h3#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/free-template.co--imagine" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/preprocessing.py" />
+        <option value="$PROJECT_DIR$/templates/form.html" />
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pro" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Project/untitled4.py" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Abhishek\PycharmProjects\test\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask (app.py)" type="Python.FlaskServer" temporary="true" nameIsGenerated="true">
+      <module name="untitled1" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="untitled1" type="Python.FlaskServer">
+      <module name="untitled1" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffbae1bb-7940-4ca3-b896-0e629d8164ef" name="Default Changelist" comment="" />
+      <created>1561367826777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561367826777</updated>
+      <workItem from="1561367828841" duration="16212000" />
+      <workItem from="1561537083055" duration="2612000" />
+      <workItem from="1561546029743" duration="3355000" />
+      <workItem from="1561613079959" duration="763000" />
+      <workItem from="1561616734424" duration="805000" />
+      <workItem from="1561619641075" duration="2280000" />
+      <workItem from="1561622010812" duration="667000" />
+      <workItem from="1561622982196" duration="2939000" />
+      <workItem from="1561696131427" duration="4818000" />
+      <workItem from="1561709085892" duration="3066000" />
+      <workItem from="1561712606554" duration="9101000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="46618000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.22470239" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49923897" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933443" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3294509" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50076103" side_tool="true" weight="0.3294509" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49923897" weight="0.3294509" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49923897" weight="0.3294509" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/untitled1$untitled1.coverage" NAME="untitled1 Coverage Results" MODIFIED="1561448313716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/pro$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1561721398391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/untitled1$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1561628991998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/static/images/undraw_investing_7u74.svg" />
+    <entry file="file://$PROJECT_DIR$/static/images/undraw_gift_card_6ekc.svg" />
+    <entry file="file://$PROJECT_DIR$/static/images/Webp.net-resizeimage (1).jpg" />
+    <entry file="file://$PROJECT_DIR$/static/images/undraw_bookmarks_r6up.svg" />
+    <entry file="file://$PROJECT_DIR$/static/images/img_1.jpg" />
+    <entry file="file://$PROJECT_DIR$/static/images/img_2.jpg" />
+    <entry file="file://$PROJECT_DIR$/static/images/img_3.jpg" />
+    <entry file="file://$PROJECT_DIR$/static/images/jj.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/landing_1.png" />
+    <entry file="file://$PROJECT_DIR$/static/images/p1.jpg" />
+    <entry file="file://$PROJECT_DIR$/static/images/hero_1.jpg" />
+    <entry file="file://$PROJECT_DIR$/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocessing.py" />
+    <entry file="file://$PROJECT_DIR$/free-template.co--imagine/index.html" />
+    <entry file="file:///usr/lib/python3.6/socketserver.py" />
+    <entry file="file://$PROJECT_DIR$/static/images/world.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images1/4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images1/33.png" />
+    <entry file="file://$PROJECT_DIR$/static/images1/23.png" />
+    <entry file="file://$PROJECT_DIR$/static/images1/metal-world-map.jpg" />
+    <entry file="file://$PROJECT_DIR$/static/images1/images.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images1/3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images1/1.png" />
+    <entry file="file://$PROJECT_DIR$/templates/form.html" />
+    <entry file="file://$PROJECT_DIR$/static/images1/IMG_20170331_231624.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images1/2.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images1/image.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images1/image(1).png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images1/image(2).png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Project/untitled4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="34" column="76" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="76" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="124" column="23" selection-start-line="124" selection-start-column="23" selection-end-line="124" selection-end-column="23" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="55" lean-forward="true" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
