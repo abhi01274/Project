@@ -60,8 +60,8 @@ features = sc.fit_transform(features)
 
 
 features=pd.DataFrame(features)
-features_train= features.iloc[:2276,:]
-features_test= features.iloc[2276:,:]
+features_train= features.iloc[:2275,:]
+features_test= features.iloc[2275:,:]
 
 labels= df1["total"]
 labels=pd.DataFrame(labels)
